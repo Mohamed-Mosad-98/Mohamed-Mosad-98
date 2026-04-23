@@ -82,7 +82,7 @@
 ## 📫 Connect With Me
 
 - 📧 mohamed.mosad.fahmy@gmail.com
-- 💼 LinkedIn: linkedin.com/in/mohamed-mosad-516aa717b
+- 💼 LinkedIn: [linkedin.com/in/mohamed-mosad-516aa717b](https://www.linkedin.com/in/mohamed-mosad-fahmy/)
 - 💻 GitHub: github.com/Mohamed-Mosad-98
 
 ---
