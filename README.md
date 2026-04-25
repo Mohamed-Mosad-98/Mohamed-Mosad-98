@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Engineering Graduate (June 2025)
 - 💻 Junior DevOps Engineer passionate about scalable systems and automation
